@@ -1,0 +1,139 @@
+{
+	"HTML": {
+		"beautifiers": [
+			"Pretty Diff",
+			"JS-Beautify"
+		],
+		"indent_inner_html": false,
+		"quotes": "none",
+		"brace_style": "collapse",
+		"indent_size": 1,
+		"indent_style": "tab",
+		"wrap_attributes": "auto",
+		"wrap_attributes_indent_size": 3,
+		"force_indentation": false,
+		"indent_comments": true,
+		"indent_scripts": "normal",
+		"preserve_newlines": true,
+		"max_preserve_newlines": 2,
+		"end_with_newline": false,
+		"newline_before_tags": [
+			"head",
+			"body",
+			"/html"
+		],
+		"unformatted": [
+			"abbr",
+			"area",
+			"audio",
+			"b",
+			"bdi",
+			"bdo",
+			"br",
+			"canvas",
+			"cite",
+			"code",
+			"data",
+			"datalist",
+			"del",
+			"dfn",
+			"em",
+			"embed",
+			"i",
+			"iframe",
+			"img",
+			"input",
+			"ins",
+			"kbd",
+			"keygen",
+			"label",
+			"map",
+			"mark",
+			"math",
+			"meter",
+			"noscript",
+			"object",
+			"output",
+			"progress",
+			"q",
+			"ruby",
+			"s",
+			"samp",
+			"select",
+			"small",
+			"span",
+			"strong",
+			"sub",
+			"sup",
+			"template",
+			"textarea",
+			"time",
+			"u",
+			"var",
+			"video",
+			"wbr",
+			"text",
+			"acronym",
+			"address",
+			"big",
+			"dt",
+			"strike",
+			"tt",
+			"pre",
+			"h1",
+			"h3",
+			"h4",
+			"h5",
+			"h6"
+		]
+	},
+	"CSS": {
+		"beautifiers": [
+			"Prettier",
+			"Pretty Diff",
+			"JS-Beautify"
+		],
+		"indent_size": 1,
+		"indent_style": "tab",
+		"preserve_newlines": true
+	},
+	"JSON": {
+		"beautifiers": [
+			"Prettier",
+			"Pretty Diff",
+			"JS-Beautify"
+		],
+		"indent_size": 3,
+		"indent_style": "tab"
+	},
+	"JavaScript": {
+		"beautifiers": [
+			"Prettier",
+			"Pretty Diff",
+			"JS-Beautify",
+			"ESLint"
+		],
+		"indent_size": 1,
+		"indent_style": "tab"
+	},
+	"PHP": {
+		"beautifiers": [
+			"PHP-CS-Fixer"
+		]
+	},
+	"SCSS": {
+		"beautifiers": [
+			"Prettier",
+			"Pretty Diff"
+		],
+		"indent_size": 1,
+		"indent_style": "tab"
+	},
+	"Vue": {
+		"beautifiers": [
+			"Prettier"
+		],
+		"indent_size": 1,
+		"indent_style": "tab"
+	}
+}
